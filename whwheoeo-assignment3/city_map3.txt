@@ -1,0 +1,30 @@
+21 19
+XXXXXXXXXXXXXXXXXXX
+X||||||||X||||||||X
+X|XXX|XX|X|XX|XXX|X
+X|XXX|XX|X|XX|XXX|X
+X|||||||||||||||||X
+X|XXX|X|XXX|X|XXX|X
+X|||||X||X||X|||||X
+XXXXX|XX|X|XX|XXXXX
+XXXXX|X|||||X|XXXXX
+X|||||||||||||||||X
+XXXXX|X|||||X|XXXXX
+XXXXX|X|XXX|X|XXXXX
+X||||||||X||||||||X
+X|XXX|XX|X|XX|XXX|X
+X|||X|||||||||X|||X
+XXX|X|||||||||X|XXX
+X|||X|X|XXX|X|X|||X
+X|||||X||X||X|||||X
+X|XXXXXX|X|XXXXXX|X
+X|||||||||||||||||X
+XXXXXXXXXXXXXXXXXXX
+
+6
+T 7 10 N |
+T 8 10 N |
+T 9 10 N |
+T 10 10 N |
+T 11 10 N |
+A 9 15 N |

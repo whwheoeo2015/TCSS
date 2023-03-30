@@ -1,0 +1,25 @@
+18 10
+XXXXXXXXXX
+X||+||#||X
+X|XXXXXX|X
+XXXXXXXXXX
+X||+||#||X
+X|XXXXXX|X
+XXXXXXXXXX
+X||+||#||X
+X|XXXXXX|X
+XXXXXXXXXX
+X=-#--#--X
+X||||+...X
+XXXXXXXXXX
+X...|#|-.X
+X|+||.||.X
+XXXXXXXXXX
+X-.+#|-.+X
+XXXXXXXXXX
+5
+C 1 4 W |
+T 1 7 W |
+H 1 10 W -
+B 1 13 W |
+A 1 16 W -
